@@ -1,1 +1,2 @@
-This is a sample  file for git commands[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ file for learning git commands
+This is a sample file for learning git commands
+now it is modified
